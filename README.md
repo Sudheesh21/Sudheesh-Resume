@@ -3,3 +3,35 @@ Over the past year, I’ve worked on several rewarding projects in machine learn
 
 Looking forward to connecting, learning, and exploring new opportunities to grow and collaborate.
 Feel free to check out my resume below!
+
+┌─────────────┐
+│ News APIs   │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│ NLP Layer   │
+│ FinBERT     │
+│ RoBERTa     │
+└──────┬──────┘
+       │  (signals)
+┌──────▼──────┐
+│ Feature     │
+│ Engineering │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│ Time-Series │
+│ Models      │
+│ LSTM / TFT  │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│ Risk &      │
+│ Decision    │
+│ Layer       │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│ REST API    │
+│ (Flutter)   │
+└─────────────┘
